@@ -1,3 +1,7 @@
+#
+# /Volumes/Masui にマウントされた外部ディスクに色々バックアップする
+#
+
 all: pitecan hondana gyazz gyamm gyaki gyaml 3memo quickml masui sfc github
 
 # アップロードファイルもセーブするためgyazz.masuilab.orgでrsyncしている
